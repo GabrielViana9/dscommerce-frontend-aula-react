@@ -1,3 +1,4 @@
+import './styles.css'
 import cartIcon from '../../assets/cart.png';
 
 export default function HeaderClient() {
